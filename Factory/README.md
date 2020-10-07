@@ -15,3 +15,6 @@ Create Abstruction. Client doesn't need to know the underlying method. All shipp
 1. Make all products follow the same interface. 
 2. Add an empty factory method inside the creator class. The return type of the method should match the common product interface.
 3. Create a set of creator subclasses for each type of product listed in the factory method.
+
+## Structure:
+![](./Factory.drawio.png)
