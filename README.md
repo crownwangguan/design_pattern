@@ -11,6 +11,7 @@ Object creation mechanisms, increase flexibility and reuse of existing code.
 Explain how to assemble objects and classes into larger structures while keeping these structures flexible and efficient.
 
 * [Adapter](/Adapter/README.md)
+* [Decorator](/Decorator/README.md)
 
 
 ## Behavioral Pattern
