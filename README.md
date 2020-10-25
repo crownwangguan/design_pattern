@@ -18,3 +18,4 @@ Explain how to assemble objects and classes into larger structures while keeping
 Concerned with algorithms and the assignment of responsibilities between objects.
 
 * [Command](/Command/README.md)
+* [Observer](/Observer/README.md)
