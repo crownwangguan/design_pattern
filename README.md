@@ -13,6 +13,7 @@ Explain how to assemble objects and classes into larger structures while keeping
 
 * [Adapter](/Adapter/README.md)
 * [Decorator](/Decorator/README.md)
+* [Facade](/Facade/README.md)
 
 
 ## Behavioral Pattern
