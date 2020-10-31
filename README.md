@@ -21,3 +21,4 @@ Concerned with algorithms and the assignment of responsibilities between objects
 
 * [Command](/Command/README.md)
 * [Observer](/Observer/README.md)
+* [Strategy](/Strategy/README.md)
